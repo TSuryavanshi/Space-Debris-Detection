@@ -17,3 +17,8 @@ Libraries: OpenCV, PyTorch, YAML, Matplotlib
 Dataset Source: Space Debris Detection Dataset (YOLOv8 Format).
 Classes: cheops, debris, double_start, earth_observation_sat_1, lisa_pathfinder, proba_2, proba_3_csc, proba_3_ocs, smart_1, soho, xmm_newton.
 Hyperparameters: Trained for 30 epochs with an image size of 640x640, utilizing Early Stopping to prevent overfitting.
+
+# Output:
+
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/72245135-3ed6-44ba-ae86-02c0286338d7" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/9646991e-5435-4a91-b019-ba56ed6d6bc8" />
